@@ -17,7 +17,7 @@ How to run ?
 
 How to assign Roles: USER & ADMIN ?
   1. Register the User and logout.
-  2. Go to the database and manually change the respective users role from User_Roles .i.e. edit USER to ADMIN.
+  2. Go to the database and manually change the respective users role from User_Roles .i.e. edit USER to ADMIN (CASE SENSITIVE).
   3. Now login using the same credential with which user is registered with. 
 
 
